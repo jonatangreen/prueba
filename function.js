@@ -1,8 +1,8 @@
 $(document).ready(function() {
   var documents = [
-    'https://docs.google.com/spreadsheets/d/1_d75C1agT45j6r6CS6FW5W-m37iokVOi/preview',
-    'https://docs.google.com/document/d/1EFXN4pdbquNIHxZwTm9zVmTaCB55qDWD/preview',
-    'https://docs.google.com/document/d/1affzNA5jLRsbv6UyGHEwcSE_7Dy22q6eALhoqOHzLfg/preview'
+    'https://docs.google.com/document/d/1EFXN4pdbquNIHxZwTm9zVmTaCB55qDWD/edit?usp=sharing&ouid=117383372408130911949&rtpof=true&sd=true',
+    'https://docs.google.com/spreadsheets/d/1_d75C1agT45j6r6CS6FW5W-m37iokVOi/edit?usp=sharing&ouid=117383372408130911949&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1affzNA5jLRsbv6UyGHEwcSE_7Dy22q6eALhoqOHzLfg/edit?usp=sharing'
   ];
 
   var currentDocument = 0;
