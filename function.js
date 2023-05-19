@@ -1,6 +1,6 @@
 $(document).ready(function() {
   var documents = [
-    'https://drive.google.com/file/d/1quTsE31hGYIUJSflqytLtAeoOw-t36Or/view?usp=sharing',
+    'https://docs.google.com/document/d/1EFXN4pdbquNIHxZwTm9zVmTaCB55qDWD/edit?usp=sharing&ouid=117383372408130911949&rtpof=true&sd=true',
     
   ];
 
