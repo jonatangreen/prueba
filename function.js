@@ -2,7 +2,6 @@ $(document).ready(function() {
   var documents = [
     'https://docs.google.com/document/d/1EFXN4pdbquNIHxZwTm9zVmTaCB55qDWD/edit?usp=sharing&ouid=117383372408130911949&rtpof=true&sd=true',
     'https://docs.google.com/document/d/1affzNA5jLRsbv6UyGHEwcSE_7Dy22q6eALhoqOHzLfg/edit?usp=sharing'
-    'https://docs.google.com/spreadsheets/d/1wQqXn2WfRm1Yf00g55XDvJ2hGbkBhHCZ/edit?usp=sharing&ouid=117383372408130911949&rtpof=true&sd=true'
   ];
 
 
